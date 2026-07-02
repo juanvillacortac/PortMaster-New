@@ -6,11 +6,14 @@ You must own the game. Copy original files from **GOG** or **Steam** into `thefo
 
 ## Supported firmware
 
-| CFW | Status |
-|-----|--------|
-| muOS, ROCKNIX, Knulli | Target (OpenGL 3.3 GPU renderer) |
-| ArkOS / dArkOS | Target |
-| RetroDECK / PortMaster PC (x86_64) | Tested path via `theforceengine.x86_64` |
+These CFW are tested:
+
+ - AmberELEC 
+ - ArkOS
+ - dArkOS
+ - ROCKNIX
+ - muOS
+ - Knulli
 
 **Not supported:** 32-bit armhf.
 
